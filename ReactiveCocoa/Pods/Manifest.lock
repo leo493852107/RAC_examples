@@ -1,0 +1,15 @@
+PODS:
+  - ReactiveCocoa (4.2.2):
+    - Result (~> 2.0)
+  - Result (2.1.3)
+
+DEPENDENCIES:
+  - ReactiveCocoa
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: 72263e7ac0770c274617ccd345e01049d0ca38ae
+  Result: 18e1a7597fbcca5923c565b40a25a98afafdee02
+
+PODFILE CHECKSUM: b954718bbdfc617007e394644dfaa445e9d7d5b5
+
+COCOAPODS: 1.1.0.beta.2
